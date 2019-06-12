@@ -21,7 +21,7 @@ class NavBar extends Component {
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-              <a class="nav-item nav-link" href="/">
+              <a class="nav-item nav-link" href="/about">
                 About Me <span class="sr-only">(current)</span>
               </a>
               <a class="nav-item nav-link" href="/projects">
